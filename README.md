@@ -29,7 +29,7 @@ handle quit                                 # closes window of browser with hand
 x := 40 * 24 + 24 * 46 # interpreter knows that  in this operation are the same multiplicators and makes from this expression next one: 24*(40+46)
 
 
--For more examples write me sugaryileh@gmail.com
+-For more examples write me sugaryoleh@gmail.com
 
 
 !!!IMPORTANT!!!
