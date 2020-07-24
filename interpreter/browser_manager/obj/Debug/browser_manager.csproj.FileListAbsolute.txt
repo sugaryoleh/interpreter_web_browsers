@@ -1,0 +1,9 @@
+C:\Users\sugar\source\repos\interpreter\browser_manager\bin\Debug\browser_manager.exe.config
+C:\Users\sugar\source\repos\interpreter\browser_manager\bin\Debug\browser_manager.exe
+C:\Users\sugar\source\repos\interpreter\browser_manager\bin\Debug\browser_manager.pdb
+C:\Users\sugar\source\repos\interpreter\browser_manager\bin\Debug\WebDriver.dll
+C:\Users\sugar\source\repos\interpreter\browser_manager\bin\Debug\WebDriver.xml
+C:\Users\sugar\source\repos\interpreter\browser_manager\obj\Debug\browser_manager.csproj.CopyComplete
+C:\Users\sugar\source\repos\interpreter\browser_manager\obj\Debug\browser_manager.exe
+C:\Users\sugar\source\repos\interpreter\browser_manager\obj\Debug\browser_manager.pdb
+C:\Users\sugar\source\repos\interpreter\browser_manager\obj\Debug\browser_manager.csprojAssemblyReference.cache

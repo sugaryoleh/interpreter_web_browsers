@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\performers">
+      <UniqueIdentifier>{b58b1316-5255-4cf7-955d-4ae37c199387}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\performers">
+      <UniqueIdentifier>{85ba6819-617e-4bcf-9cd6-184ddf3761bb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="interprocesscommunicator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="webexception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="misk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="optimizergenerators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patterngenerators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="processdictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="token.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="treeoptimizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vardictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="performer.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="arithmetics.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="assign.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="binop.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="comparisons.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="combinations.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="toboolconverter.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="unop.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="varconverter.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+    <ClCompile Include="browseroperations.cpp">
+      <Filter>Source Files\performers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="interprocesscommunicator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="webexception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="interpreter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lexer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="misk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="optimizergenerators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="patterngenerators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="processdictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="token.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="treeoptimizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vardictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arithmetics.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="assign.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="binop.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="combinations.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="comparisons.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="if.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="performer.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="toboolconverter.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="varconverter.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="while.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="browseroperations.h">
+      <Filter>Header Files\performers</Filter>
+    </ClInclude>
+    <ClInclude Include="unop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="code.txt" />
+    <Text Include="while.txt" />
+    <Text Include="web.txt" />
+    <Text Include="if.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+standart look:
+	>>	[command] $ [param1] $ [param2] $ ... 
+	ATTENTION: Commands are case-sensative!
+browser commands:
+	>> run { chrome | edge }
+	>> open <STR>[ url ]
+	>> quit
+	>> input$[key]$[value]$[{ inputaple text | '\enter' | '\backspace' }]
+	>> click$[key]$[value]
+	>> clear$[key]$[value]
+	

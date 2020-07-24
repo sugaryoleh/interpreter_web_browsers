@@ -1,0 +1,8 @@
+ref := 'instagram.com'
+handle := run chrome
+handle open ref
+login := 'oleh_sakharchuk_'
+handle click name 'username'
+handle input name 'username' login 
+handle input name 'password' 'arkadiy18'
+handle quit
